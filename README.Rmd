@@ -1,0 +1,16 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Exemplos e Explicações
+
+Esse é apenas um repositório para me auxiliar e enviar links de exemplos de códigos para alunos ou pessoas que me fazem perguntas referente a programação.
